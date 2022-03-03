@@ -1,6 +1,6 @@
 # KBC
 
-KBC is a CLI Who Wants to be a millionaire like quiz game implemented in Python.
+KBC is a CLI based "Who Wants to be a millionaire" or "Kaun Banega CrorePati" like quiz game implemented in Python.
 
 ### Why this project
 
